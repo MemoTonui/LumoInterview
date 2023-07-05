@@ -1,5 +1,5 @@
-# LumoInterview
-Social Media Application API Interview
+
+# Social Media Application API 
 
 ## How to Use It
 
